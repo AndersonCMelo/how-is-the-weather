@@ -38,7 +38,7 @@ npm run android
 
 ### App Screenshots
 
-| ![](assets/docs/images/Homepage.png) | |
-| ![](assets/docs/images/City1.png) | ![](assets/docs/images/City2.png) |
-| ![](assets/docs/images/City3.png) | ![](assets/docs/images/City4.png) |
-| ![](assets/docs/images/City5.png) | ![](assets/docs/images/City6.png) |
+| ![](src/assets/docs/images/Homepage.png) | |
+| ![](src/assets/docs/images/City1.png) | ![](src/assets/docs/images/City2.png) |
+| ![](src/assets/docs/images/City3.png) | ![](src/assets/docs/images/City4.png) |
+| ![](src/assets/docs/images/City5.png) | ![](src/assets/docs/images/City6.png) |
